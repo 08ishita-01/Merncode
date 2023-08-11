@@ -1,0 +1,36 @@
+<html>
+    <head>
+        <title>My Website</title>
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+        <style>
+            p{
+                color: red;
+                background-color: blue;
+            }
+            .abc{
+                color: purple;
+                background-color: black;
+            }           
+        </style>
+
+        </head>
+    
+        <body>
+
+            <p class="abc">Hello this is a paragraph</p>
+            <p>how are you</p>
+            <p>Borahae</p>
+            <p class="abc">Bogoshipoyo</p>
+            <p>Mianhae</p>
+            <p class="abc">Saranghae</p>
+            <p class="abc">Kamshamnida</p>
+
+
+
+
+        </body>
+
+        
+</html>
+

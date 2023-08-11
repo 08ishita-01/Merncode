@@ -1,0 +1,14 @@
+
+.xyz{
+ font-size: 20px;
+ color: red !important;
+}
+ .abc{
+     color: purple;
+     background-color: black;
+     font-size: 30px;
+ }           
+ #myid{
+     color: green;
+     font-size: 20px;
+ }

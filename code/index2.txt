@@ -1,0 +1,34 @@
+<html>
+    <head>
+        <title>My Website</title>
+        <link rel="icon" href="/favicon.ico" type="image/x-icon">
+
+        <style>
+            table,th,td{
+                border:2px solid rgb(0, 115, 255);
+                border-collapse: collapse;
+            }
+        </style>
+        </head>
+    
+        <body>
+
+            <table style="width: 200px; color: rgb(255, 0, 162);">
+                <tr><th style="color:blue" colspan="2">Full Name</th><th>Roll No.</th></tr>
+                <tr><td>Rashi</td><td>Dave</td><td>7</td></tr>
+                <tr><td>Disha</td><td>Pathak</td><td>4</td></tr>
+                <tr><td>Ruhi</td><td>Chawla</td><td>8</td></tr>
+               
+            </table>
+        </body>
+
+
+
+
+
+
+
+        </body>
+        
+</html>
+
